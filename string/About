@@ -1,0 +1,16 @@
+.toLowerCase()... convert into lower case
+toUpperCase()....convert into upper case
+obj1.concat(obj2)....joint two string value
+length()....show the length of string
+trim()...clear the prefix and postfix space from the string
+.isEmpty()...return boolean value if string is empty or not
+.charAt(2).....return character value from string as mentioned index
+s2.indexOf('h')... return int number from string as mentioned character
+.equals(s2)...compair two string value and return boolean value
+s2.replace("rahul","omkar") ....replace mention String value
+a.equalsIgnoreCase(b)....compair two string value without considering case sencitivity and return boolean value
+a.substring(2)...return string value toward mentioned index
+a.substring(2,6)....return string value toward and upto mentioned string index
+.valueOf(a1)....convert into String
+split()....spilt string
+.intern()... value put in String pool

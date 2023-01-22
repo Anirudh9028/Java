@@ -1,0 +1,6 @@
+.toCharArray() = it convert String into character array And Return type char[]
+Character.isLetter('charchater') = check wheather mentioned character is letter or not and return boolean value
+Character.isDigit(numeric value) = check wheather mentioned character is integer(digit) or not and return boolean value
+Character.isSpaceChar( _ (Space)) = check wheather mentioned character is Space or not and return boolean value
+Arrays.toString(Array list) = mentioned Array list convert into String data type Array
+Arrays.sort(Array list) = mentioned array list sorted Acesending order but arrays list data type must be String 

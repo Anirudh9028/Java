@@ -1,0 +1,33 @@
+List = interface
+
+
+
+
+
+
+iterator = interface
+ListIterator = interface
+
+obj.hasNext (); = return boolean if next element in list present or not
+obj.next() = return next elements(object) in list
+obj.hasPrevious() = return  boolean if previous element in list present or not
+obj.previous() = return previous elements(object) in list
+
+Collection frame-work method
+
+obj.add .... add element into list
+obj.add(indexing of list , "")............add one list into another list
+obj.remove (indexing of list)......... remove mentioned indexing of element from list
+obj.remove("string value")............ remove mentioned string from the list
+list1.removeAll(list2).............remove one list from another list
+obj.set(indexing of list , "string value")..... modifiy existing value
+
+obj.clear();..........remove the all element in the list
+obj.isEmpty()............return boolean value if list is empty or not
+
+
+
+list1.addAll(list2) .... add one list into another
+
+
+obj.contains ().....return boolean value
